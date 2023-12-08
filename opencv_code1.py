@@ -1,7 +1,3 @@
-import cv2
-import numpy as np
-import os
-
 # Open the video file
 cap = cv2.VideoCapture('C:/Users/daisy/Desktop/Document/vscodetest/image/1212.mp4')
 
