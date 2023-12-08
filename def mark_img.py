@@ -1,6 +1,4 @@
-import cv2
-import numpy as np
-import os
+
 
 
 def mark_img(img, blue_threshold=0, green_threshold=0, red_threshold=0):
