@@ -3,7 +3,7 @@
 ###### -computer vision technique used to identify and track the lane markings on the road  It plays a crucial role in many applications such as autonomous driving, driver assistance systems, and lane departure warning systems.
 ---
 ### **Lane  Detection process** 
-![ds](image-2323.jpg)
+![ds](image/image-2323.jpg)
 ---
 
 >>> ***steps***
@@ -16,10 +16,11 @@
 - (6) Finally, the detected lane lines are visualized on the original image or video stream to provide a clear indication of the detected lanes.
 ---
 ## RESULT
-![ds](image/term-project-2.png)
+![ds](image/term-project-3.png)
 ### *In the process of changing lanes to the left, change the project that recognizes the direction of lane change to English*
 ![ds](image/term-project-3.png)
 ---
-## document
+## documet
 
 ---
+
