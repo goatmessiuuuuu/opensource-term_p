@@ -1,7 +1,4 @@
-import cv2
-import numpy as np
-import os
-##
+
 def region_of_interest(img, vertices, color3=(255,255,255), color1=255):
     # Create a mask with the same shape as the image
     mask = np.zeros_like(img)
