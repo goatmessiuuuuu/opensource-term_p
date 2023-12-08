@@ -16,7 +16,7 @@
 - (6) Finally, the detected lane lines are visualized on the original image or video stream to provide a clear indication of the detected lanes.
 ---
 ## RESULT
-![ds](image/term-project-3.png)
+![ds](image/term-project-2.png)
 ### *In the process of changing lanes to the left, change the project that recognizes the direction of lane change to English*
 ![ds](image/term-project-3.png)
 ---
