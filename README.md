@@ -18,7 +18,7 @@
 ---
 ## RESULT
 ![ds](image/open-source-add.png)
-### *In the process of changing lanes to the left, change the project that recognizes the direction of lane change to English*
+### *Project that recognizes the direction of lane change in the process of lane change to the left*
 ![ds](image/add2imgimg.png)
 ---
 ## document
