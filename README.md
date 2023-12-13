@@ -22,9 +22,19 @@
 ![ds](image/add2imgimg.png)
 ---
 ## document
-###### pros and development of lane detection:
+###### *https://diy-project.tistory.com/115*
+Lane Recognition with OpenCV
+
+##### *https://www.sciencedirect.com/science/article/pii/S2667241323000186*
+Review on lane detection and related methods
+
+##### *https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7827336/*
+A Fast and Robust Lane Detection Method Based on Semantic Segmentation and Optical Flow Estimation
+
+pros and development of lane detection:
 
 Pros:
+
 
 Improved driving safety: Lane detection technology allows vehicles to safely stay in their lane.
 Advances in autonomous driving technology: Lane detection technology is a key technology for autonomous driving, and it contributes to the advancement of autonomous driving technology.
@@ -35,8 +45,12 @@ It is expected that the safety and convenience of autonomous vehicles will be fu
 Here are some specific examples of how lane detection can be used to improve safety and convenience:
 
 Lane departure warning: Lane departure warning systems use lane detection technology to alert drivers if they are about to drift out of their lane.
+
 Automatic lane keeping: Automatic lane keeping systems use lane detection technology to keep vehicles centered in their lane.
+
 Lane change assistance: Lane change assistance systems use lane detection technology to help drivers safely change lanes.
+
 Lane detection technology is a critical component of autonomous driving, and it has the potential to make our roads safer and more convenient.
+
 ---
 
